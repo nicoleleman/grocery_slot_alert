@@ -14,7 +14,7 @@ minchin.pelican.plugins.image-process==1.2.0
 numpy==1.18.4
 pandas==1.0.3
 pelican==4.1.1
-Pillow==7.1.2
+Pillow==9.0.1
 Pygments==2.4.2
 PyJWT==1.7.1
 pyparsing==2.4.2
