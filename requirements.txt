@@ -11,7 +11,7 @@ MarkupSafe==1.1.1
 matplotlib==3.2.1
 minchin.pelican.jinja-filters==1.0.4
 minchin.pelican.plugins.image-process==1.2.0
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 pelican==4.1.1
 Pillow==7.1.2
